@@ -1,0 +1,6 @@
+Commands may be abbreviated.  Commands are:
+
+?       help    send    put
+get     recv    mkdir   rm
+ls      dir     cd  	size
+rename  !       quit    exit
